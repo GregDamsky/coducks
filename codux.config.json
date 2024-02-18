@@ -10,7 +10,7 @@
     "templatesPath": "src/_codux/component-templates"
   },
   "safeRender": {
-    "maxInstancesPerComponent": 1100
+    "maxInstancesPerComponent": 1200
   },
   "scripts": {
     "install": {
