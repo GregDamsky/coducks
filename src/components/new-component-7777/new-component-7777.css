@@ -1,0 +1,25 @@
+.title {
+    color: #a51313;
+}
+
+.unordered {
+    color: #be9c9c;
+}
+
+.list {
+}
+
+.list:hover {
+    font-size: 30px;
+    text-align: start;
+}
+.li-1 {
+}
+.li-2 {
+}
+.li-3 {
+}
+.li-4 {
+}
+.li-5 {
+}
