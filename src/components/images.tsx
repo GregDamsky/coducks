@@ -58,6 +58,16 @@ export const Images = ({ images }: { images: Image[] }) => {
                     </AspectRatio.Root>
                 ))}
             </div>
+            <ul>
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Milk</li>
+            </ul>
+            <ul>
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Milk</li>
+            </ul>
         </div>
     );
 };
