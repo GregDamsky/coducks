@@ -10,7 +10,7 @@ export default createBoard({
         </div>
     ),
     environmentProps: {
-        canvasWidth: 400,
+        canvasWidth: 402,
     },
     isSnippet: true,
 });
